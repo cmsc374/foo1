@@ -1,3 +1,4 @@
+# The only change made is this line.
 BUILD_SUBDIRS = threads userprog vm filesys
 
 all::
